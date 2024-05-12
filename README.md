@@ -43,14 +43,14 @@ python manage.py runserver
 API документировано с помощью Swagger UI. После запуска сервера вы можете получить доступ к документации по адресу http://127.0.0.1:8000/
 
 ## Screenshots
-![](../../Screenshot_22.png)
-![](../../Screenshot_23.png)
-![](../../Screenshot_24.png)
-![](../../Screenshot_25.png)
-![](../../Screenshot_26.png)
-![](../../Screenshot_27.png)
-![](../../Screenshot_28.png)
-![](../../Screenshot_29.png)
+![Screenshot_22](https://github.com/Baizaknew/FinalSoftwareEngineering/assets/102854080/07bcb689-40de-48af-a29f-8676e327821d)
+![Screenshot_23](https://github.com/Baizaknew/FinalSoftwareEngineering/assets/102854080/f963f11c-53ee-4e1d-82b6-f80709f9fc61)
+![Screenshot_24](https://github.com/Baizaknew/FinalSoftwareEngineering/assets/102854080/b5a153c4-b0c1-4fa1-aedc-cb3ef66d716a)
+![Screenshot_25](https://github.com/Baizaknew/FinalSoftwareEngineering/assets/102854080/fad07b5b-1e8a-4f42-bf40-6528d6d095fd)
+![Screenshot_26](https://github.com/Baizaknew/FinalSoftwareEngineering/assets/102854080/0a0c9839-0111-4554-9a86-8c2897c8709b)
+![Screenshot_27](https://github.com/Baizaknew/FinalSoftwareEngineering/assets/102854080/05d8585a-d74c-485e-a6df-c8381cba519a)
+![Screenshot_28](https://github.com/Baizaknew/FinalSoftwareEngineering/assets/102854080/0170b0cc-993e-4254-a944-b45bb993f2f2)
+![Screenshot_29](https://github.com/Baizaknew/FinalSoftwareEngineering/assets/102854080/c1678e40-1ddc-4c05-a2ad-4f1728ea85a7)
 
 ## Tutorial
 link
